@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Ahora Celina va a aprender React!
+        </a>
       </header>
     </div>
   );
